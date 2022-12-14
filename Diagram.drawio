@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T17:16:17.237Z" agent="5.0 (X11)" etag="5fu2zIUyydebR5ZI3J6L" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T17:17:54.453Z" agent="5.0 (X11)" etag="ctt_l3e2cB6qqps-479j" version="20.7.2" type="github">
   <diagram name="Численные методы" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="4621.5" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3440.5" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,9 +195,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QPeaXw4D8b_2LhWp08dD-164" value="Тут что то не чисто. Мало данных. Спросить на косультации? Искать самому?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="640" y="540" width="570" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" target="QPeaXw4D8b_2LhWp08dD-168" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3877.5" y="221.39470588235292" as="sourcePoint" />
@@ -285,7 +282,7 @@
           <mxGeometry x="5030" y="813.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-203" value="Метод Координатного спуска&lt;br&gt;108" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="3900" y="364.87" width="120" height="60" as="geometry" />
+          <mxGeometry x="3900" y="364.87" width="120" height="75.13" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QPeaXw4D8b_2LhWp08dD-205" target="VRZvh-1-eIxOU3hfsN7O-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -310,7 +307,7 @@
           <mxGeometry x="3750" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-207" value="Метод Квадратного корня&lt;br&gt;122" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="3600" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="3600" y="740" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VRZvh-1-eIxOU3hfsN7O-1" target="VRZvh-1-eIxOU3hfsN7O-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -507,7 +504,7 @@
           <mxGeometry x="60" y="813.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-76" value="Метод исключений Гаусса&lt;br&gt;115" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="3340" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="3340" y="740" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-83" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="4505" y="704.62" width="190" height="109" as="geometry" />
@@ -579,9 +576,6 @@
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-128" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2620" y="615" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zs8A1n69yqvI7hHJAnna-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="670" width="280" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
