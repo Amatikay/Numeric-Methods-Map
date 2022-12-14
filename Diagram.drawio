@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T17:17:54.453Z" agent="5.0 (X11)" etag="ctt_l3e2cB6qqps-479j" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T17:28:19.220Z" agent="5.0 (X11)" etag="icmbREDDChZPf_jQ40hc" version="20.7.2" type="github">
   <diagram name="Численные методы" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="3440.5" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2948.5" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,11 +127,14 @@
         <mxCell id="QPeaXw4D8b_2LhWp08dD-110" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QPeaXw4D8b_2LhWp08dD-101" target="QPeaXw4D8b_2LhWp08dD-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zs8A1n69yqvI7hHJAnna-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPeaXw4D8b_2LhWp08dD-101" target="VRZvh-1-eIxOU3hfsN7O-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-101" value="Мы знаем x_0 b x_1" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-108" value="Метод линейного интерполирования&lt;br&gt;&lt;div&gt;или метод секущих&lt;/div&gt;&lt;div&gt;(Модифицикация простой итерации)43&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="410" y="710" width="170" height="110" as="geometry" />
+          <mxGeometry x="470" y="703.62" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QPeaXw4D8b_2LhWp08dD-113" target="QPeaXw4D8b_2LhWp08dD-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +252,7 @@
           <mxGeometry x="2680" y="567.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-188" value="Метод Крылова&lt;br&gt;66" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2920" y="856.62" width="120" height="60" as="geometry" />
+          <mxGeometry x="2760" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-189" value="Метод ортоганализации&lt;br&gt;69" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2920" y="627.62" width="120" height="60" as="geometry" />
@@ -257,8 +260,16 @@
         <mxCell id="QPeaXw4D8b_2LhWp08dD-190" value="Метод Ланцоша&lt;br&gt;77" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1820" y="539.32" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zs8A1n69yqvI7hHJAnna-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPeaXw4D8b_2LhWp08dD-191" target="QPeaXw4D8b_2LhWp08dD-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zs8A1n69yqvI7hHJAnna-6" value="Если занулилась координата" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zs8A1n69yqvI7hHJAnna-5">
+          <mxGeometry x="-0.2335" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-191" value="Метод Хессенберга&lt;br&gt;79" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2920" y="705.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2750" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-192" value="Метод вращений&lt;br&gt;84" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1690" y="479.32" width="120" height="60" as="geometry" />
@@ -501,7 +512,7 @@
           <mxGeometry x="3620" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-75" value="Метод Стефферсона&lt;br&gt;44" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="60" y="813.62" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VRZvh-1-eIxOU3hfsN7O-76" value="Метод исключений Гаусса&lt;br&gt;115" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3340" y="740" width="120" height="70" as="geometry" />
