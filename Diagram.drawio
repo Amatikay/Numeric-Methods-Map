@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T19:22:41.633Z" agent="5.0 (X11)" etag="XrLbsMceMTlSGpmuKLPp" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T19:26:11.827Z" agent="5.0 (X11)" etag="0xuqGSGqFi5uJhRr2n_0" version="20.7.2" type="github">
   <diagram name="Численные методы" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="4143.5" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3187.5" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,14 +273,14 @@
         <mxCell id="QPeaXw4D8b_2LhWp08dD-192" value="Метод вращений&lt;br&gt;84" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1230" y="506.53" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPeaXw4D8b_2LhWp08dD-193" target="QPeaXw4D8b_2LhWp08dD-195">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QPeaXw4D8b_2LhWp08dD-193" target="QPeaXw4D8b_2LhWp08dD-195" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-193" value="Степенной метод&lt;br&gt;87" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="574.09" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="753.57" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-195" value="Метод λ-разности&lt;br&gt;88" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="661.6600000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="841.1400000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QPeaXw4D8b_2LhWp08dD-196" value="QR - раздложение&lt;br&gt;91" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2450" y="550.9800000000001" width="120" height="60" as="geometry" />
@@ -607,47 +607,53 @@
         <mxCell id="zs8A1n69yqvI7hHJAnna-11" value="m&amp;lt;n" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2100" y="755.2800000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2060" y="831.6600000000001" as="sourcePoint" />
             <mxPoint x="2060" y="411.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-2" value="Не полные решения задачи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-2" value="Не полные решения задачи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1860" y="406.65999999999997" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-3" value="Полные решения задачи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-3" value="Полные решения задачи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2080" y="406.65999999999997" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVZzraZkJRHwYXI4xfHo-4" target="QPeaXw4D8b_2LhWp08dD-193">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EVZzraZkJRHwYXI4xfHo-4" target="QPeaXw4D8b_2LhWp08dD-193" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-4" value="Наибольшее&lt;br&gt;по модулю собственное значение и принадлежащий ему&lt;br&gt;собственный вектор" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="443.78" width="120" height="100" as="geometry" />
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-4" value="Наибольшее&lt;br&gt;по модулю собственное значение и принадлежащий ему&lt;br&gt;собственный вектор" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="623.26" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVZzraZkJRHwYXI4xfHo-7" target="QPeaXw4D8b_2LhWp08dD-185">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EVZzraZkJRHwYXI4xfHo-7" target="QPeaXw4D8b_2LhWp08dD-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-7" value="&lt;div&gt;Собственные числа и наибольший собственный вектор&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-7" value="&lt;div&gt;Собственные числа и наибольший собственный вектор&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="463.78" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVZzraZkJRHwYXI4xfHo-9" target="QPeaXw4D8b_2LhWp08dD-187">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EVZzraZkJRHwYXI4xfHo-9" target="QPeaXw4D8b_2LhWp08dD-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-9" value="&lt;div&gt;Коэффиценты собственного многочлена,собственные вектора, обратную матрицу&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-9" value="&lt;div&gt;Коэффиценты собственного многочлена,собственные вектора, обратную матрицу&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2265" y="438.78" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVZzraZkJRHwYXI4xfHo-11" target="QPeaXw4D8b_2LhWp08dD-196">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EVZzraZkJRHwYXI4xfHo-11" target="QPeaXw4D8b_2LhWp08dD-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-11" value="&lt;div&gt;Для любой матрицы&lt;/div&gt;&lt;div&gt;(ВОЗМОЖНО!! только вещественной)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-11" value="&lt;div&gt;Для любой матрицы&lt;/div&gt;&lt;div&gt;(ВОЗМОЖНО!! только вещественной)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2450" y="438.78" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVZzraZkJRHwYXI4xfHo-13" target="QPeaXw4D8b_2LhWp08dD-181">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EVZzraZkJRHwYXI4xfHo-13" target="QPeaXw4D8b_2LhWp08dD-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EVZzraZkJRHwYXI4xfHo-13" value="Решает полную проблему, быстрее метода крылова. По какому признаку выбрать его - хз" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EVZzraZkJRHwYXI4xfHo-13" value="Решает полную проблему, быстрее метода крылова. По какому признаку выбрать его - хз" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2450" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6SishZUekUCyJb4dfDCV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6SishZUekUCyJb4dfDCV-1" target="EVZzraZkJRHwYXI4xfHo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6SishZUekUCyJb4dfDCV-1" value="Пусть A – матрица размера n×n обладает полной системой линейно независимых собственных векторов. Это имеет место, если 1) А – симметрична или 2) собственные числа матрицы А различны" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="441.42" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
